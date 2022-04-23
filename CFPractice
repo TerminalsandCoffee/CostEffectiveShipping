@@ -9,6 +9,9 @@
 weight = 1.5
 
 
+#weight = input("Please Enter Your weight: ")
+#print("Your cost will be, " + weight)
+
 #Separate each shipping options first then create control flow.  
 #ground shipping
 if weight <=2:
